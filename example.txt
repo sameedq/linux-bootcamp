@@ -5,5 +5,4 @@ One day, he wrote buggy code! But thankfully he was able to reset to an
 earlier commit. Instead of having to rewrite his entire project, he was
 able to just restart the buggy feature.
 
-
-write an ending here
+However, he turned out not to be such a good programmer because he ended ip messing his code again and having to go back to git again and again.
